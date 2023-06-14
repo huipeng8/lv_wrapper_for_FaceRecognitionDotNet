@@ -4,7 +4,7 @@
 
 该VI库只是之前练习Labview的代码，对应版本为FaceRecognitionDotNet 1.2.3.10，使用labview调用相关.net DLL实现人脸识别和关键点检测，识别精度依赖相关模型。
 
-![搜狗截图20230614084437.png](F:\MY%20FILE\FaceRecognitionDotNet%201.2.3.10\搜狗截图20230614084437.png)
+![搜狗截图20230614084437.png](搜狗截图20230614084437.png)
 
 模型库:
 
